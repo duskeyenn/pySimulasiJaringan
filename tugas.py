@@ -51,7 +51,6 @@ def main():
     print("\n=== LANGKAH 2 & 3: Kirim lewat router, satu paket hilang ===")
     print(f"Paket hilang: nomor {hilang['no']} (payload {hilang['payload']})")
 
-    # Langkah 4: susun ulang
     print("\n=== LANGKAH 4: Penerima menyusun ===")
     urut_tiba = [p["no"] for p in tiba]
     print("Urutan kedatangan paket:", urut_tiba)
