@@ -1,1 +1,1 @@
-tugas transmisi data di bawah bimbibgan buk eny faikoh simulasi kode mengunakan python
+tugas transmisi data di bawah bimbingan buk eny faikoh simulasi kode mengunakan python
